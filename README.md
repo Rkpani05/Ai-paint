@@ -19,7 +19,7 @@ Ai Paint is a hand gesture drawing application using computer vision and the Med
 2. Install the required packages by running the following command:
 ``` pip install -r requirements.txt ```
 3. Run the Ai Paint program:
-``` python Ai Paint.py ```
+``` python AI_Paint.py ```
 
 ## Usage
 1. Ensure that your webcam is connected and working properly.
